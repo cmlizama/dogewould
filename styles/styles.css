@@ -1,0 +1,28 @@
+body{
+  font-family: sans-serif;
+}
+.reportInput{
+  width: 60%;
+  horizontal-align: center;
+}
+
+h1{
+  text-align: center;
+}
+
+.reportsContainer{
+  width: 50%;
+  min-height: 60px;
+}
+
+p.reports{
+  padding-top: 1px;
+}
+
+#landingHeader{
+  color: white;
+  text-shadow: -2px 0 red, 0 2px red, 2px 0 red, 0 -2px red;
+}
+html {
+  text-decoration: none;
+}
