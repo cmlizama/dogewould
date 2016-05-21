@@ -1,4 +1,4 @@
-# aurelia-skeleton-navigation-webpack
+(based on the aurelia-skeleton-navigation-webpack boilerplate)
 
 ## Getting Started
 
